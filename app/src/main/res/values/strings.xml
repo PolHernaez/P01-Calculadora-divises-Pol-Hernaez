@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Calculadora Divises</string>
+
+    <string name="title">Canvi de divises</string>
+    <string name="subtitle">Escriu l\'import en euros i tria la moneda</string>
+
+    <string name="label_euros">EUROS · EUR</string>
+    <string name="label_result">CONVERSIÓ</string>
+    <string name="initial_euros">0</string>
+    <string name="initial_result">0,00</string>
+
+    <!-- Selector de moneda -->
+    <string name="currency_pound">£ GBP</string>
+    <string name="currency_dollar">$ USD</string>
+    <string name="currency_yen">¥ JPY</string>
+    <string name="currency_yuan">元 CNY</string>
+    <string name="cd_pound">Lliures esterlines</string>
+    <string name="cd_dollar">Dòlars americans</string>
+    <string name="cd_yen">Iens japonesos</string>
+    <string name="cd_yuan">Iuans xinesos</string>
+
+    <!-- Teclat -->
+    <string name="key_0">0</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_comma">,</string>
+    <string name="key_ce">CE</string>
+    <string name="key_equals">=</string>
+
+    <string name="cd_comma">Coma decimal</string>
+    <string name="cd_clear">Reinicia a zero</string>
+    <string name="cd_back">Esborra l\'últim dígit</string>
+    <string name="cd_equals">Converteix</string>
+</resources>

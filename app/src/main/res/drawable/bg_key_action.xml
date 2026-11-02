@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Operacions: fons com la pantalla, només amb vora -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/ink_700" />
+            <stroke android:width="1.5dp" android:color="@color/red" />
+            <corners android:radius="@dimen/radius_key" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/ink_800" />
+            <stroke android:width="1.5dp" android:color="@color/ink_500" />
+            <corners android:radius="@dimen/radius_key" />
+        </shape>
+    </item>
+</selector>

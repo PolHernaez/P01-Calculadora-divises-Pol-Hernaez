@@ -1,0 +1,4 @@
+<resources>
+    <!-- Mateix tema que el de dia: vegeu values/themes.xml -->
+    <style name="Theme.CalculadoraDivises" parent="Base.Theme.CalculadoraDivises" />
+</resources>

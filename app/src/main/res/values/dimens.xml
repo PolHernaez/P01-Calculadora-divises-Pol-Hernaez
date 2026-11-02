@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="touch_min">48dp</dimen>
+    <dimen name="key_margin">5dp</dimen>
+    <dimen name="card_padding">18dp</dimen>
+    <!-- Cantonades poc arrodonides: aire de cartell imprès -->
+    <dimen name="radius_card">10dp</dimen>
+    <dimen name="radius_key">10dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- L'app té un sol aspecte (fosc), tant en mode clar com nocturn -->
+    <style name="Base.Theme.CalculadoraDivises" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/on_accent</item>
+        <item name="colorSecondary">@color/paper</item>
+        <item name="colorOnSecondary">@color/on_accent</item>
+        <item name="android:colorBackground">@color/ink_900</item>
+        <item name="android:windowBackground">@color/ink_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">false</item>
+    </style>
+
+    <style name="Theme.CalculadoraDivises" parent="Base.Theme.CalculadoraDivises" />
+</resources>
